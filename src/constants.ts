@@ -1,4 +1,4 @@
-const mock_api_data = {
+export const mock_api_data = {
   lat: 33.44,
   lon: -94.04,
   timezone: "America/Chicago",
